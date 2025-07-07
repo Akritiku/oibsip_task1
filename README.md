@@ -35,10 +35,11 @@ landing-page/
 ![Landing Page Screenshot]
 ![image](https://github.com/user-attachments/assets/4581a621-8a55-4a2c-a360-b8368444c327)
 ![image](https://github.com/user-attachments/assets/e846783f-4e73-41a6-bf2d-895c85d94a0e)
+![image](https://github.com/user-attachments/assets/a2e0b22f-2bee-436c-8631-fc249bfd09a2)
 
 # View Project
 https://oibsip-task1-iota.vercel.app/
-![image](https://github.com/user-attachments/assets/a2e0b22f-2bee-436c-8631-fc249bfd09a2)
+
 
 
 
